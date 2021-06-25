@@ -5,8 +5,12 @@ Noi dung A2
 Phát triển code by Tung
 Phát triển code by Ton
 
+<<<<<<< HEAD
 Phat triển code by Ton verson 2
 Phát triển code by Tung vesion2
 Phát triển code by Ton vesion 3
 Phát triển code by Ton vesion 4
 Tonfsdfsdfsdfs
+=======
+Phat triển code by Ton verson Noi
+>>>>>>> Ton
