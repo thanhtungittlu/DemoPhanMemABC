@@ -2,5 +2,3 @@ Nội dung A
 Noi dung A1
 Noi dung A2
 
-code by Ton
-code by Tung
