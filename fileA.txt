@@ -12,6 +12,14 @@ Phát triển code by Ton vesion 4
 ads
 
 Phát triển code by Tung vesion5
+<<<<<<< HEAD
 Phát triển code by Ton version 5
 
 Phát triển code by Ton version 10B
+=======
+Phát triển code by Ton version 6
+Phát triển code by Ton version 5
+
+
+phát triển code by Tung version 10 A
+>>>>>>> e99abca59a710b48eba6957e50e044bca4f23fea
